@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "THE SOUND OF SECRET MINDS",
+  "base_artist": "Hi-STANDARD",
+  "createdAt": "2026-04-05T12:48:10.445623Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "THE SOUND OF SECRET MINDS",
+      "artist": "Hi-Standard",
+      "has_synced": false,
+      "path": "select/01_THE_SOUND_OF_SECRET_MINDS_Hi-Standard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Sound of Secret Minds",
+      "artist": "Hi‐STANDARD",
+      "has_synced": false,
+      "path": "select/02_The_Sound_of_Secret_Minds_Hi‐STANDARD.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE SOUND OF SECRET MINDS",
+      "artist": "Hi-STANDARD",
+      "has_synced": false,
+      "path": "select/pl_01_THE_SOUND_OF_SECRET_MINDS_Hi-STANDARD.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "THE SOUND OF SECRET MINDS",
+      "artist": "Hi-STANDARD",
+      "has_synced": false,
+      "path": "select/localdb_01_THE_SOUND_OF_SECRET_MINDS_Hi-STANDARD.txt",
+      "repo_name": "7IcFhKHtyoE"
+    }
+  ]
+}
